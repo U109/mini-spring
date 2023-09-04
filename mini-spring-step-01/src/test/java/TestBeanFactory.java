@@ -1,5 +1,3 @@
-package test;
-
 import zzz.springframework.BeanDefinition;
 import zzz.springframework.BeanFactory;
 

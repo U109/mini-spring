@@ -5,13 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zzz</groupId>
-    <artifactId>mini-spring</artifactId>
+    <artifactId>mini-spring-step-01</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>mini-spring-step-01</module>
-        <module>mini-spring-step-02</module>
-    </modules>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
