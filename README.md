@@ -5,7 +5,7 @@
 
 #### 学习计划
 
-学习天数：3天
+学习天数：5天
 
 #### 项目结构
 
@@ -21,7 +21,7 @@ mini-spring-step-05：资源加载器解析文件注册对象
 
 mini-spring-step-06：应用上下文
 
-mini-spring-step-07
+mini-spring-step-07：Bean的初始化和销毁方法
 
 mini-spring-step-08
 
