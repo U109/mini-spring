@@ -5,7 +5,7 @@
 
 #### 学习计划
 
-学习天数：5天
+One step a day
 
 #### 项目结构
 
@@ -23,8 +23,22 @@ mini-spring-step-06：应用上下文
 
 mini-spring-step-07：Bean的初始化和销毁方法
 
-mini-spring-step-08
+mini-spring-step-08：Aware感知容器对象
 
-mini-spring-step-09
+mini-spring-step-09：对象作用域和FactoryBean
 
-mini-spring-step-10
+mini-spring-step-10：容器事件和事件监听器
+
+mini-spring-step-11：基于JDK、CGlib实现AOP切面
+
+mini-spring-step-12：把AOP扩展到Bean的生命周期
+
+mini-spring-step-13：自动扫描Bean对象注册
+
+mini-spring-step-14：通过注解注入属性信息
+
+mini-spring-step-15：给代理对象设置属性注入
+
+mini-spring-step-16：三级缓存处理循环依赖
+
+mini-spring-step-17：数据类型转换
