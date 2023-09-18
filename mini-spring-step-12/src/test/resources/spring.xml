@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans>
-    <bean id="userService" class="UserService"/>
+    <bean id="userService" class="bean.UserService"/>
 
     <bean class="zzz.springframework.aop.framework.autoproxy.DefaultAdvisorAutoProxyCreator"/>
 
@@ -11,7 +11,7 @@
     </bean>
 
     <bean id="pointcutAdvisor" class="zzz.springframework.aop.aspectj.AspectJExpressionPointcutAdvisor">
-        <property name="expression" value="execution(* IUserService.*(..))"/>
+        <property name="expression" value="execution(* bean.IUserService.*(..))"/>
         <property name="advice" ref="methodInterceptor"/>
     </bean>
 </beans>
